@@ -12,7 +12,7 @@
  ---------------  -----------
 | READS          | LINKS     |
 | -------------- |:---------:|
-| _Read-01_      | [Link]()  |
+| _Read-01_      | [Link](https://github.com/MohamadSheikhAlshabab/Reading-Notes-301/new/master)  |
 | _Read-02_      | [Link]()  |
 | _Read-03_      | [Link]()  |
 | _Read-04_      | [Link]()  |
